@@ -2,7 +2,7 @@
 This repository is a collection of scripts for hosting a variety of server applications using Docker and Portainer onto Raspberry Pi's.
 
 ## Docker/Portainer Installation
-Run `prerequisites.sh`, to setup the docker directory.
+Create a folder called 'docker' and use this folder for any docker installs.
 
 Then run `docker-install.sh`, to install docker, docker-compose, and add the current user to the docker usergroup.
 
